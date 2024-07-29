@@ -3,6 +3,9 @@ guia de markdown: Nicole Cabriza 2024 escuela Proa
 
 ![image](https://github.com/user-attachments/assets/e1ae0bcf-1e38-4cbf-855b-0835752960c9)
 
+![image](https://github.com/user-attachments/assets/2cb3e1fd-258f-4304-a578-22e12895abd7)
+
+
 
  En el lenguaje Markdown encontrarás tres tipos de elementos básicos que a su vez engloban el resto de la sintaxis. Considera esto una cheat sheet con la que guiarte.
 
@@ -84,6 +87,3 @@ Si has llegado hasta aquí es probable que te estés preguntando cómo he conseg
 
 Esto es muy sencillo, ya que en este lenguaje existe un elemento estrella para especificar que todo lo que escribas a continuación, no se interprete como Markdown.
 Se trata de la barra invertida \.
-
-![Uploading image.png…]()
-
