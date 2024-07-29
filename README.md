@@ -83,5 +83,7 @@ Solo que en este caso, deberás añadir un símbolo de ! exclamación al princip
 Si has llegado hasta aquí es probable que te estés preguntando cómo he conseguido escribir ciertos símbolos como * asteriscos o _ guiones bajos, sin que Markdown los interprete para convertirlos en negritas, cursivas…
 
 Esto es muy sencillo, ya que en este lenguaje existe un elemento estrella para especificar que todo lo que escribas a continuación, no se interprete como Markdown.
-
 Se trata de la barra invertida \.
+
+![Uploading image.png…]()
+
